@@ -1,0 +1,48 @@
+ID;PGnumeric;N;E
+P;PGeneral
+P;ESans;M200
+F;FD0R;P0;SM1;C1
+F;P0;SM1;C2
+F;P0;SM1;C3
+F;P0;SM1;C4
+F;P0;SM1;C5
+F;P0;SM1;C6
+F;P0;SM1;C7
+F;FD0R;P0;SM1;Y1;X1
+F;P0;SM1;X2
+F;P0;SM1;X3
+F;P0;SM1;X4
+F;P0;SM1;X5
+F;P0;SM1;X6
+F;P0;SM1;X7
+F;FD0R;P0;SM1;Y2;X1
+F;P0;SM1;X2
+F;P0;SM1;X3
+F;P0;SM1;X4
+F;P0;SM1;X5
+F;P0;SM1;X6
+F;P0;SM1;X7
+F;W1 1 7
+F;W2 2 8
+F;W3 3 8
+F;W4 4 9
+F;W5 5 12
+F;W6 6 5
+F;W7 7 28
+B;Y2;X7;D0 0 1 6
+O;A100 0.001000;L;V0
+C;Y1;X1;K"brand"
+C;X2;K"capacity(ml)"
+C;X3;K"lid size(mm)"
+C;X4;K"thickness(mm)"
+C;X5;K"lifetime(est. Days)"
+C;X6;K"cost(?)"
+C;X7;K"url"
+C;Y2;X1;K"Pasabahce"
+C;X2;K450
+C;X3;K70
+C;X4;K2
+C;X5;K563
+C;X6;K5.99
+C;X7;K"https://www.ebay.co.uk/itm/174410913020"
+E
